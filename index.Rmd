@@ -8,4 +8,4 @@ date: "2024-08-12"
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Checkout my cool [diamonds plot](diamonds_plot.html).
+Checkout my cool [diamonds plot](diamond_plot.html).
