@@ -9,6 +9,11 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ```{r}
+Sys.Date()
+```
+
+
+```{r}
 library(ggplot2)
 ```
 
